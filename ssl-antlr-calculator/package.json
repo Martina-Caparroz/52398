@@ -1,0 +1,13 @@
+{
+  "name": "milenguaje-project",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Proyecto intérprete para Milenguaje con ANTLR4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "antlr4": "^4.13.2"
+  }
+}
