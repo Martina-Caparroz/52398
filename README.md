@@ -21,7 +21,8 @@ Antes de ejecutar el programa, se necesita necesita:
 - ANTLR4 instalado
 
 ## INSTRUCCIONES DE EJECUCIÓN
-- Clonar este repositorio en su computadora
+- Clonar este repositorio en su computadora  
+git clone https://github.com/Martina-Caparroz/52398.git
 
 - Abrir la carpeta con VS Code.
 
